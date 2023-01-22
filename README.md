@@ -1,1 +1,1 @@
-# BombSquadDetails-For-BombSquad-1.7.19
+# BombSquadDetails For BombSquad 1.7.19
