@@ -6,6 +6,10 @@
 
 *-Added translation window*
 
+**??/??/2022**
+
+*-Made compatible in versions 1.7.10-1.7.15*
+
 **6/14/2022:**
 
 *-Added "add friend" feature*
