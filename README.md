@@ -4,6 +4,8 @@
 
 *-Added feature to translate chat messages*
 
+*-Added translation window*
+
 **6/14/2022:**
 
 *-Added "add friend" feature*
